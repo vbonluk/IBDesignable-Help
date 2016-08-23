@@ -1,17 +1,6 @@
----
 
-layout: post
-title: "iOS开发效率之IBDesignable与IBInspectable神器!"
-description: 
-headline: 
-modified: 2016-08-23
-category: iOS之路
-tags: []
-imagefeature: 
-comments: true
-mathjax: 
 
----
+喜欢的请star一下吧😘更多请浏览：[www.真无聊.com](http://xn--rgvu79ah1g.com/ios%E4%B9%8B%E8%B7%AF/IBDesignable-IBInspectable)
 
 ### 前言：
 
