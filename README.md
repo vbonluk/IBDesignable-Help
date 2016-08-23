@@ -1,6 +1,6 @@
 
 
-喜欢的请star一下吧😘更多请浏览：[www.真无聊.com](http://xn--rgvu79ah1g.com/ios%E4%B9%8B%E8%B7%AF/IBDesignable-IBInspectable)
+喜欢的请star一下吧😘图片加载不全，更多请浏览：[www.真无聊.com](http://xn--rgvu79ah1g.com/ios%E4%B9%8B%E8%B7%AF/IBDesignable-IBInspectable)
 
 ### 前言：
 
